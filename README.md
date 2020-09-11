@@ -1,2 +1,2 @@
-# Jedi_University
-Group Project
+# jedi-university
+School some nerds on star wars.

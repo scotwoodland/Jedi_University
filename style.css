@@ -1,0 +1,105 @@
+body {
+    background: url(assets/img/warp.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#btnPlanet {
+    width: 85px;
+    height: 85px;
+}
+#btnPeople {
+    width: 85px;
+    height: 85px
+}
+#btnShips {
+    width: 85px;
+    height: 85px
+}
+#btnSpecies {
+    width: 85px;
+    height: 85px
+}
+#btnMovies {
+    width: 85px;
+    height: 85px
+}
+#rebelicon {
+    width:175px;
+    height:175px;
+}
+
+#btnPlanet {
+    width: 85px;
+    height: 85px;
+}
+#btnPeople {
+    width: 85px;
+    height: 85px
+}
+#btnShips {
+    width: 85px;
+    height: 85px
+}
+#btnSpecies {
+    width: 85px;
+    height: 85px
+}
+#btnMovies {
+    width: 85px;
+    height: 85px
+}
+#rebelicon {
+    width:175px;
+    height:175px;
+}
+
+.factsUl {
+    text-align: left;
+}
+
+.contentUl {
+    text-align: left;
+    display: inline-block;
+}
+
+.sliderCard {
+    padding: 40px;
+}
+
+.uk-heading-primary {
+    font-family: 'Bungee Outline', cursive;
+    font-weight: bolder;
+    color: rgb(231, 231, 76);
+}
+
+.uk-card {
+    border-radius: 10px;
+}
+
+.uk-button {
+    border-radius: 10px;
+}
+
+.uk-input {
+    border-radius: 10px;
+}
+
+#prev {
+    color: black;
+}
+
+#next {
+    color: black;
+}
+
+.welcome {
+    font-family: 'Bungee Outline', cursive;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    /* padding: 5px; */
+}
+
